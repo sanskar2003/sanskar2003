@@ -19,5 +19,5 @@ I am a 3rd year CSE student at IIIT Vadodara - International Campus Diu. Android
 - Programming Languages: Java, Kotlin, C, Python, LaTeX
 - Frameworks and Database: XML, MySQL
 - Softwares: Android Studio, Figma
-- Technical SKills: Android Development, Ui/Ux Design, Database Management System, Machine Learning
+- Technical Skills: Android Development, Ui/Ux Design, Database Management System, Machine Learning
 - General Skills: Project Management, Event Management
