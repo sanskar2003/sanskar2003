@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**sanskar2003/sanskar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I am Sanskar Patel
+***
+I am a 3rd year CSE student at IIIT Vadodara - International Campus Diu. Android Developer and ML/DL enthusiastic.
+<br></br>
+### About Me
+***
+- 🔭 I’m currently working on Android Applications.
+- 🌱 I’m currently learning Machine Learning and Deep Learning concepts.
+- 📫 How to reach me: mail @ patelsanskar2003@gmail.com
+<br></br>
+### Links:
+***
+- [Linkedin](https://www.linkedin.com/in/sanskar-patel-7a31b317b/)
+- [LeetCode](https://leetcode.com/sanskar2003/)
+- [Instagram](https://www.instagram.com/psanskar_04/)
+<br></br>
+### Skills:
+***
+- Programming Languages: Java, Kotlin, C, Python, LaTeX
+- Frameworks and Database: XML, MySQL
+- Softwares: Android Studio, Figma
+- Technical SKills: Android Development, Ui/Ux Design, Database Management System, Machine Learning
+- General Skills: Project Management, Event Management
