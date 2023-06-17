@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sanskar Patel
 ***
-I am a 3rd year CSE student at IIIT Vadodara - International Campus Diu. Android Developer and ML/DL enthusiastic.
+I am a 4th year CSE student at IIIT Vadodara - International Campus Diu. Android Developer and ML/DL enthusiastic.
 <br></br>
 ### About Me
 ***
