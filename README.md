@@ -1,11 +1,13 @@
 ### Hi there 👋 I am Sanskar Patel
 ***
-I am a 4th year CSE student at IIIT Vadodara - International Campus Diu. Android Developer and ML/DL enthusiastic.
+Hi! I'm Sanskar Patel, a final-year student at the Indian Institute of Information Technology, Vadodara - ICD, majoring in Computer Science & Engineering. I have a strong technical background in Java, Android Development, and Software Development.
+
+I enjoy solving complex technical challenges and developing optimized solutions. I'm adept at collaborating with cross-functional teams and can work across different areas to deliver efficient results.
 <br></br>
 ### About Me
 ***
-- 🔭 I’m currently working on Android Applications.
-- 🈸 I have published one app at playstore.
+- 🔭 I’m currently working on Java Applications.
+- 🈸 I have published android applications at playstore.
 - 🌱 I’m currently learning Machine Learning and Deep Learning concepts.
 - 📫 How to reach me: mail @ patelsanskar2003@gmail.com
 <br></br>
@@ -13,8 +15,8 @@ I am a 4th year CSE student at IIIT Vadodara - International Campus Diu. Android
 ***
 - [Resume](https://drive.google.com/file/d/1eCW2o5HtvrXjaekz5j4nTjMm6HfN7UKr/view?usp=sharing)
 - [Linkedin](https://www.linkedin.com/in/sanskar-patel-7a31b317b/)
-- [Playstore](https://play.google.com/store/apps/developer?id=sanskar_patel)
 - [LeetCode](https://leetcode.com/sanskar2003/)
+- [Playstore](https://play.google.com/store/apps/developer?id=sanskar_patel)
 - [Instagram](https://www.instagram.com/psanskar_04/)
 <br></br>
 ### Skills:
